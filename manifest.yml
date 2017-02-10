@@ -1,0 +1,4 @@
+applications:
+- name: spring-boot-db
+  memory: 1G
+  path: build/libs/spring-boot-db-0.1.0.jar
